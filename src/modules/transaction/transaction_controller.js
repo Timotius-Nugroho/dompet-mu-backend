@@ -198,7 +198,7 @@ module.exports = {
                       200,
                       'Success Export File Transaction',
                       {
-                        url: `https://pacific-bastion-76713.herokuapp.com/api/${fileName}`
+                        url: `https://dompetmu-api.herokuapp.com/api/${fileName}`
                       }
                     )
                   }
